@@ -124,4 +124,4 @@ Responses from the AI chatbot might be unavailable if using a device with school
 
 
 Additional Information-
-Please allow for the website to load in when first accessing the website, loading speeds may differ based on the strength of the internet the device is using
+Please allow for the website to load in when first accessing the website, loading speeds may differ based on the strength of the internet the device is using.
