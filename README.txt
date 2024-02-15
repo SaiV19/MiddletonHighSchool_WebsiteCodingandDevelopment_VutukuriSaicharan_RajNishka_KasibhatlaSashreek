@@ -4,11 +4,16 @@ This document will provide information on how to use and access the VitaFlora Ca
 Website Link-https:\\vitafloracareers.com 
 
   
+  
+
 To download source code please use either link provided below to get access: 
 
 GitHub Link- https://github.com/SaiV19/MiddletonHighSchool_WebsiteCodingandDevelopment_VutukuriSaicharan_RajNishka_KasibhatlaSashreek  
+
 OR 
+
 Google Drive Link- https://drive.google.com/drive/u/2/folders/1Ze1H6QvsFqM-uGbrUdayhSEfYDM_lVjO 
+
 
 *Note-You do NOT need to click on both links, either link will provide the full source code* 
 
@@ -94,7 +99,11 @@ Documents:
 
   
 
+  
 
+  
+
+  
 
   
 
@@ -130,7 +139,12 @@ Click on "Copyright" in the footer to view the Copyright page
 
   
 
+  
 
+
+  
+
+  
 
   
 
